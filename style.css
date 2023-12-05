@@ -1,0 +1,19 @@
+nav {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#main-title {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.content {
+    background-color: rgb(34, 93, 122);
+}
+
+p {
+    color: white;
+}
